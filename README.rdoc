@@ -17,6 +17,11 @@ This Plugin offers a tree view for browsing projects.
 1. Use the extra Menu Entry next to "Projects".
 
 
+== License
+MIT. See the LICENSE file. The copyright and permission notices of the original
+authors (Paul Kertscher, Ryan Seddon) must be kept in all copies or substantial
+portions of the software.
+
 == Changelog
 === 0.5.0
 * Project names are now HTML-escaped (the tree previously inserted them unescaped).
