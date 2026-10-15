@@ -2,6 +2,14 @@
 
 A collapsible tree view for browsing Redmine projects and their subprojects.
 
+== Origin
+This plugin is a fork of {projects_treeview}[https://github.com/braini75/projects_treeview]
+by Thomas Koch (braini75), which is itself an adaptation of the original
+"projectstreeview" plugin by *Paul Kertscher* (2014,
+{sourceforge}[http://sourceforge.net/p/projectstreeview/code/HEAD/tree/trunk/],
+version 0.0.3-78). All credit for the original idea and implementation goes to
+them. Their MIT copyright notices are kept (see License and References).
+
 == Features
 * A page that lists the projects visible to the current user, nested by project
   hierarchy. Folders expand and collapse with a click or from the keyboard.
